@@ -1,3 +1,2 @@
 # EubatoNaMinhaV-
-index.html
-style.css
+https://github.com/GordoOfWar/EubatoNaMinhaV-/tree/main
