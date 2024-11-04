@@ -1,1 +1,22 @@
+body{
+    color: aqua;
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 100px;
+}
 
+header{
+  border-bottom: solid 2px aquamarine;
+  padding: 20px;
+  font-size: 32px;
+  color: black;  
+}
+
+.chamada{
+    background: cyan;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+       
