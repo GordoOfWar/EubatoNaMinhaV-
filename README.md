@@ -1,2 +1,3 @@
 # EubatoNaMinhaV-
-https://github.com/GordoOfWar/EubatoNaMinhaV-/tree/main
+
+https://gordoofwar.github.io/EubatoNaMinhaV-/
